@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3A08C9B1-96A0-43D3-8DBC-388FB906169F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelenProject/Program.cs">
+    <Files>
+      <File FileName="HelenProject/HelenProject" Line="26" Column="6" />
+      <File FileName="HelenProject/Program.cs" Line="26" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Projects/HelenProject/HelenProject/Program.cs" relfile="HelenProject/Program.cs" line="26" column="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelenProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
